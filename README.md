@@ -1,6 +1,10 @@
-Amigo Secreto 🎁
+                                                                        Amigo Secreto 🎁
 
 Este es un proyecto simple de "Amigo Secreto" que permite agregar nombres a una lista y realizar un sorteo para asignar amigos secretos de manera aleatoria.
+
+💡 Visualizacion del proyecto
+![captura de pantalla](https://github.com/user-attachments/assets/3ff704cb-a7a2-42a5-b1a0-87617ecb9a1e)
+
 
 📌 Características
 
@@ -8,7 +12,7 @@ Agregar nombres a la lista de participantes.
 
 Visualizar la lista de participantes.
 
-Realizar el sorteo del amigo secreto de manera aleatoria.
+Realizar el sorteo del amigo secreto de manera aleatoria desde el boton   sortear amigo .
 
 🚀 Tecnologías Utilizadas
 
